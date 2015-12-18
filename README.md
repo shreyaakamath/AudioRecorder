@@ -1,0 +1,1 @@
+A voice recorder with an audio level meter to record,playback,manage and upload audio clippings to a central database. Users need to record 200 sentences in three languages,which are used as input to a text to speech engine
