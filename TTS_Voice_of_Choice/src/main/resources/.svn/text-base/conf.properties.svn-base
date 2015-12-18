@@ -1,0 +1,3 @@
+# Please specify the complete directory path where user databases will be stored
+# Use "/" (forward slash) as path-separator on both Windows & Linux
+DATABASE_LOCATION = C:/TTS_VoiceOfChoice_Output/TTS-database

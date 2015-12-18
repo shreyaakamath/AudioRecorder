@@ -1,0 +1,26 @@
+----------------------------------------------------------------
+2011-08-26 13:13:38.375 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance a816c00e-0132-0639-682d-000000289508
+on database directory C:\TTS_VoiceOfChoice_Output\TTS-database  
+
+Database Class Loader started - derby.database.classpath=''
+
+2011-08-26 13:13:39.203 GMT:
+Shutting down instance a816c00e-0132-0639-682d-000000289508
+----------------------------------------------------------------
+----------------------------------------------------------------
+2011-08-26 13:13:39.390 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance 08264012-0132-0639-682d-000000289508
+on database directory C:\TTS_VoiceOfChoice_Output\TTS-database  
+
+Database Class Loader started - derby.database.classpath=''
+
+2011-08-26 13:13:39.500 GMT:
+Shutting down instance 08264012-0132-0639-682d-000000289508
+----------------------------------------------------------------
+----------------------------------------------------------------
+2011-08-26 13:13:42.062 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance 6839c016-0132-0639-682d-000000289508
+on database directory C:\TTS_VoiceOfChoice_Output\TTS-database  
+
+Database Class Loader started - derby.database.classpath=''
